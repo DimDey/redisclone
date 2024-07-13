@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisClone.Persistance", "RedisClone.Persistance\RedisClone.Persistance.csproj", "{B7E4AA32-68FE-4FF8-8ABF-9AE2E2AF34F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisClone.Infrastructure", "RedisClone.Infrastructure\RedisClone.Infrastructure.csproj", "{81FCD2A0-A3C9-4398-9A62-F5E7B8D1258B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisClone.Core", "RedisClone.Core\RedisClone.Core.csproj", "{2FA8567B-D063-4FB9-8994-1DDD29D142DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E4AA32-68FE-4FF8-8ABF-9AE2E2AF34F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E4AA32-68FE-4FF8-8ABF-9AE2E2AF34F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E4AA32-68FE-4FF8-8ABF-9AE2E2AF34F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E4AA32-68FE-4FF8-8ABF-9AE2E2AF34F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FCD2A0-A3C9-4398-9A62-F5E7B8D1258B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FCD2A0-A3C9-4398-9A62-F5E7B8D1258B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FCD2A0-A3C9-4398-9A62-F5E7B8D1258B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FCD2A0-A3C9-4398-9A62-F5E7B8D1258B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA8567B-D063-4FB9-8994-1DDD29D142DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA8567B-D063-4FB9-8994-1DDD29D142DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA8567B-D063-4FB9-8994-1DDD29D142DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA8567B-D063-4FB9-8994-1DDD29D142DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
